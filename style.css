@@ -2,6 +2,9 @@
 /* style.css */
 * { 
     text-decoration: none; 
+    font-size: 1rem; 
+    color: #5c5c5c; 
+    font-weight: 100; 
 } 
   
 /* Reset and general styling */
@@ -173,17 +176,24 @@ footer {
     background-color: #fff;
     padding: 20px 0;
     text-align: center;
+    border: 1px solid black;
+    background-color: #cecaca;
+    
 }
 
 .footer-content {
     display: flex;
     justify-content: space-between;
-    background-color: #e6dfdf;
+    
+   
     
 }
 .section {
   justify-content: left;
     border-radius: 5px;
-    background-color: #5c5c5c;
-
+    
+}
+.footer-link1.a{
+    
+    
 }
